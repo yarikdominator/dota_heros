@@ -1,0 +1,16 @@
+body {
+  background: #f6f6f6;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+}
+h1, h2, h3 {
+  font-weight: 700;
+  color: #222;
+}
+.card {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  border-radius: 10px;
+}
+.navbar {
+  background: #fff !important;
+  border-bottom: 1px solid #e2e2e2;
+} 
